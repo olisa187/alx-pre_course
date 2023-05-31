@@ -1,0 +1,4 @@
+The git commands used
+git add .
+git commit -m "Message"
+git push
